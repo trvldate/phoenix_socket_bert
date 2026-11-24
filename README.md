@@ -136,7 +136,7 @@ untrusted websocket input.
 To contribute you need to compile `PhoenixSocketBert` from source:
 
 ```
-$ git clone https://github.com/Youimmi/phoenix_socket_bert.git
+$ git clone https://github.com/trvldate/phoenix_socket_bert.git
 $ cd phoenix_socket_bert
 ```
 
